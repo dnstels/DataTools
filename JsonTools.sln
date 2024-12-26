@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTools", "JsonTools.csproj", "{62344B52-39D9-4342-8FDD-9D3E50A2C8AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTools", "JsonTools\JsonTools.csproj", "{62344B52-39D9-4342-8FDD-9D3E50A2C8AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToolsTests", "JsonToolsTests\JsonToolsTests.csproj", "{7D5C9A11-24A2-4F81-921B-82DDF56377F1}"
 EndProject
