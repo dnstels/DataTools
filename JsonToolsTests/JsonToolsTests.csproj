@@ -24,7 +24,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Update="Files\*">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
