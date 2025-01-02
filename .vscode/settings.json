@@ -1,5 +1,5 @@
 {
-    "dotnet.defaultSolution": "JsonTools.sln",
+    "dotnet.defaultSolution": "DataTools.sln",
     "python.testing.promptToConfigure": false,
     "dotnet.testWindow.useTestingPlatformProtocol": true
 }

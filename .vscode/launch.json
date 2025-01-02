@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C#: JsonToolsTests Debug",
+            "name": "C#: DataToolsTests Debug",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/JsonToolsTests/JsonToolsTests.csproj"
+            "projectPath": "${workspaceFolder}/DataToolsTests/DataToolsTests.csproj"
         }
 
     ]
