@@ -6,10 +6,10 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
 
 namespace JsonToolsTests;
 
-public class UnitTest1
+public class JsonTests
 {
     private readonly ITestOutputHelper _outputConsole;
-    public UnitTest1(ITestOutputHelper output)
+    public JsonTests(ITestOutputHelper output)
     {
         _outputConsole = output;
     }
